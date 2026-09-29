@@ -1,0 +1,43 @@
+PLP Python Week 8 Toolkit Plan
+
+Tool 1: Simple Calculator
+This tool asks the user for two numbers and calculates their sum, difference, product, and division.
+
+Concepts used:
+- Input
+- Variables
+- Arithmetic
+- Conditionals
+- f-strings
+
+Tool 2: To-Do List
+This tool allows the user to add tasks to a list, view the tasks, and remove tasks.
+
+Concepts used:
+- List
+- Loop
+- Conditionals
+- append()
+- remove()
+- f-strings
+
+Tool 3: Number Checker
+This tool asks the user for a number and checks whether it is positive, negative, zero, even, or odd.
+
+Concepts used:
+- Input
+- if / elif / else
+- Modulo operator %
+- f-strings
+
+Exact Menu Text:
+
+Welcome to My Python Toolkit!
+
+Please choose a tool:
+1. Simple Calculator
+2. To-Do List
+3. Number Checker
+4. Quit
+
+Enter your choice:
